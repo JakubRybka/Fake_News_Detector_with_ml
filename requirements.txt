@@ -1,0 +1,11 @@
+nltk~=3.9.1
+spacy~=3.8.7
+textstat~=0.7.7
+pandas~=2.2.3
+language_tool_python~=2.9.3
+spellchecker~=0.4
+spacytextblob~=5.0.0
+numpy~=2.2.6
+scikit-learn~=1.6.1
+torch~=2.7.0
+transformers~=4.52.3
